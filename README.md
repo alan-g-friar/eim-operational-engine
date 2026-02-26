@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1166991799.svg)](https://doi.org/10.5281/zenodo.18778573)
+
 # EIM Operational Engine
 ## Specification Baseline — Version 1.0  
 ### Experimental Implementation Framework
