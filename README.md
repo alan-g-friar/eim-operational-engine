@@ -88,12 +88,12 @@ Those works remain doctrinal and informational. This repository defines an exper
 
 ## Contents
 
-- `Specification-Index.md` — structural index of all baseline components  
-- `HIOM-Definition.md` — definition of High-Integrity Operating Mode  
-- `Assumption-Event-Taxonomy-v1.0.md` — classification of enforceable assumption events  
+- `Assumption-Event-Taxonomy-v1.0.md` — classification of enforceable assumption events
+- `Derivation-Transparency-Specification-v1.0.md` — formal derivation exposure requirements
+- `HIOM-Definition-v1.0.md` — definition of High-Integrity Operating Mode
 - `Required-Variable-Framework-v1.0.md` — engineer-led variable declaration model  
 - `STOP-Logic-Specification-v1.0.md` — deterministic enforcement behavior  
-- `Derivation-Transparency-Specification-v1.0.md` — formal derivation exposure requirements  
+- `Specification-Index-v1.0.md` — structural index of all baseline components  
 
 ## Citation
 
