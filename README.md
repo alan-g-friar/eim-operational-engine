@@ -43,12 +43,12 @@ The framework does not make decisions, guarantee safety outcomes, or replace eng
 
 Version 1.0 defines the following components:
 	
-- High-Integrity Operating Mode (HIOM)  
 - Assumption Event Taxonomy v1.0  
+- Derivation Transparency Specification v1.0  
+- High-Integrity Operating Mode (HIOM) Definition v1.0  
 - Required Variable Framework v1.0  
 - STOP Logic Specification v1.0  
-- Derivation Transparency Specification v1.0  
-- Explicit Engineering Mode activation and boundary rules
+- Specification Index v1.0
 
 This baseline defines a complete enforcement architecture within its stated limits.
 
