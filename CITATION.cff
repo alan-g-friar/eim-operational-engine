@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "EIM Operational Engine: Specification Baseline Version 1.0"
+version: 1.0
+date-released: 2026-02-25
+authors:
+  - family-names: Friar
+    given-names: Alan
+    orcid: "https://orcid.org/0009-0000-6986-1771"
+    affiliation: "EnBra Group LLC"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.18778573"
+repository-code: "https://github.com/alan-g-friar/eim-operational-engine"
